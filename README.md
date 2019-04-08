@@ -8,7 +8,7 @@
 - [Docs](https://tendermint.com/docs/)
 - [Quick start](https://tendermint.com/docs/introduction/quick-start.html)
 - [RPC reference](https://tendermint.com/rpc/)
-- [Ecosystem](https://tendermint.com/ecosystem) List of ABCI servers and apps
+- [Ecosystem](https://tendermint.com/ecosystem) Frameworks built on top of Tendermint
 
 ## Papers (and one thesis)
 
@@ -37,6 +37,32 @@
 - [Consensus Compare: Tendermint BFT vs. EOS dPoS](https://blog.cosmos.network/consensus-compare-tendermint-bft-vs-eos-dpos-46c5bca7204b)
 - [List of projects in Cosmos & Tendermint Ecosystem](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 - [The Most Comprehensive Guide to Tendermint Core](https://blockgeeks.com/guides/ultimate-guide-tendermint/)
+
+## Language bundles
+
+### Golang bundle
+
+- [ABCI server](https://godoc.org/github.com/tendermint/tendermint/abci/server)
+- [Light client](https://godoc.org/github.com/tendermint/tendermint/lite)
+- [RPC client](https://godoc.org/github.com/tendermint/tendermint/rpc/client)
+
+### Javascript bundle
+
+- [ABCI server](https://github.com/tendermint/js-abci)
+- [Light client](https://github.com/nomic-io/js-tendermint)
+- [RPC client](https://github.com/nomic-io/js-tendermint)
+
+### Java bundle
+
+- [ABCI server](https://github.com/jTendermint/jabci)
+
+### Python bundle
+
+- [ABCI server](https://github.com/davebryson/py-abci)
+
+### Rust bundle
+
+- [ABCI server](https://github.com/tendermint/rust-abci)
 
 ## Non-English resources
 
