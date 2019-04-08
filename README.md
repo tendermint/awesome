@@ -45,16 +45,21 @@
 - [ABCI server](https://godoc.org/github.com/tendermint/tendermint/abci/server)
 - [Light client](https://godoc.org/github.com/tendermint/tendermint/lite)
 - [RPC client](https://godoc.org/github.com/tendermint/tendermint/rpc/client)
+- [Amino](https://github.com/tendermint/go-amino)
 
 ### Javascript bundle
 
 - [ABCI server](https://github.com/tendermint/js-abci)
 - [Light client](https://github.com/nomic-io/js-tendermint)
 - [RPC client](https://github.com/nomic-io/js-tendermint)
+- [Amino](https://github.com/cybercongress/js-amino)
+
+Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 
 ### Java bundle
 
 - [ABCI server](https://github.com/jTendermint/jabci)
+- [Example: chat](https://github.com/wolfposd/TMChat)
 
 ### Python bundle
 
@@ -63,6 +68,7 @@
 ### Rust bundle
 
 - [ABCI server](https://github.com/tendermint/rust-abci)
+- [Amino](https://github.com/tendermint/amino_rs)
 
 ## Non-English resources
 
