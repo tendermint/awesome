@@ -29,6 +29,10 @@
 - [Blockchain Smart Contracts in Any Language with Tendermint TMSP](https://www.youtube.com/watch?v=9krAQzN6tbc) A bit outdated, but you have to watch to see Ethan Buchman aka Tanuki rapping!
 - [Dev sessions](https://www.youtube.com/watch?v=YBZjecfjeIk&list=PLdQIb0qr3pnBbG5ZG-0gr3zM86_s8Rpqv) Each presentation covers a different topic related to Tendermint
 
+## Presentations
+
+- [CodeChain Consensus. BFT: Tendermint](https://docs.google.com/presentation/d/1k0CbJQBHoMJkuOXdAKHFw9dcaXES_3dFYnCp1I1bm2M/edit) Explains why PoLC is needed with step-by-step visualizations
+
 ## Blogs and other reading links
 
 - [Tendermint Explained Bringing BFT-based PoS to the Public Blockchain Domain](https://blog.cosmos.network/tendermint-explained-bringing-bft-based-pos-to-the-public-blockchain-domain-f22e274a0fdb)
