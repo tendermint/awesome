@@ -20,6 +20,7 @@
 
 ## Tutorials
 
+- [Writing a built-in Tendermint Core app in Go](https://blog.cosmos.network/writing-a-built-in-tendermint-core-app-in-go-a52f3a35ec09)
 - [Tendermint CAS demo](https://github.com/6thc/tendermint-cas-demo)
 
 ## Videos
