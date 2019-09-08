@@ -43,13 +43,6 @@
 - [List of projects in Cosmos & Tendermint Ecosystem](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 - [The Most Comprehensive Guide to Tendermint Core](https://blockgeeks.com/guides/ultimate-guide-tendermint/)
 
-## Ecosystem
-
-Projects that are built using Tendermint
-
-- Cosmos Hub [Github](https://github.com/cosmos/gaia)
-- Cosmos SDK [Github](https://github.com/cosmos/cosmos-sdk)
-
 ## Language bundles
 
 ### Golang bundle
@@ -85,6 +78,13 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 ## Non-English resources
 
 - [Tendermint 轻松达成共识](https://www.youtube.com/watch?v=c6eoPPunVVA)
+
+## Ecosystem
+
+Projects that are built using Tendermint
+
+- Cosmos Hub [Github](https://github.com/cosmos/gaia)
+- Cosmos SDK [Github](https://github.com/cosmos/cosmos-sdk)
 
 ## Talk to us
 
