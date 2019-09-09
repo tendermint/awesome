@@ -79,6 +79,13 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 
 - [Tendermint 轻松达成共识](https://www.youtube.com/watch?v=c6eoPPunVVA)
 
+## Ecosystem
+
+Projects that are built using Tendermint
+
+- Cosmos Hub [Github](https://github.com/cosmos/gaia)
+- Cosmos SDK [Github](https://github.com/cosmos/cosmos-sdk)
+
 ## Talk to us
 
 - [Chat](https://riot.im/app/#/room/#tendermint:matrix.org)
