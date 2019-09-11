@@ -81,7 +81,7 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 
 ## Ecosystem
 
-Projects that are built using Tendermint
+Projects that are using Tendermint
 
 - Cosmos Hub [Github](https://github.com/cosmos/gaia)
 - Cosmos SDK [Website](https://cosmos.network/)
@@ -93,6 +93,32 @@ Projects that are built using Tendermint
 - Clearing.cc [Website](https://www.clearing.cc/)
 - Oracle [Website](https://www.oracle.com/index.html)
 - FX Clearing House [Website](https://fxclr.com/#)
+- Peaq [Website](https://peaq.io/)
+- OneLedger [Website](https://www.oneledger.io/)
+- Stratumn [Website](https://stratumn.com/)
+- LeapDAO [Website](https://leapdao.org/)
+- Ercoin [Website](https://ercoin.tech/)
+- Sharering [Website](https://sharering.network/en)
+- Akash [Website](https://akash.network/)
+- Cyber Miles [Website](https://www.cybermiles.io/en-us/)
+- Fluence [Website](https://fluence.network/)
+- Boid [Website](https://www.boid.com/)
+- Vega Protocol [Website](https://vegaprotocol.io/)
+- Expload [Website](https://expload.com/en)
+- CodeChain [Website](https://codechain.io/)
+- Digital ID for all [Website](https://www.digitalid.or.th/)
+- Minter [Website](https://www.minter.network)
+- LikeCoin [Website](https://like.co/)
+- Paradigm Market [Website](https://paradigm.market/)
+- Ockam [Website](https://www.ockam.io/)
+- Bytom [Website](https://bytom.io/)
+- Nomic Holdings - Bitcoin sidechains [Website](https://nomic.io/)
+- Crypto.com [Website](https://crypto.com/)
+- Chain Point [Website](https://chainpoint.org/)
+- Strong Force [Website](https://www.strongforce.io/)
+- Lightstream [Website](https://www.lightstreams.network/)
+- Kadena, Kadenamint [Website](https://kadena.io/en/)
+- Nym [Website](https://nymtech.net/)
 
 ## Talk to us
 
