@@ -22,6 +22,7 @@
 
 - [Writing a built-in Tendermint Core app in Go](https://blog.cosmos.network/writing-a-built-in-tendermint-core-app-in-go-a52f3a35ec09)
 - [Tendermint CAS demo](https://github.com/6thc/tendermint-cas-demo)
+- [How to write Tendermint applications using Python](https://medium.com/coinmonks/how-to-write-tendermint-applications-using-python-d8dde304e339)
 
 ## Videos
 
@@ -42,6 +43,7 @@
 - [Consensus Compare: Tendermint BFT vs. EOS dPoS](https://blog.cosmos.network/consensus-compare-tendermint-bft-vs-eos-dpos-46c5bca7204b)
 - [List of projects in Cosmos & Tendermint Ecosystem](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 - [The Most Comprehensive Guide to Tendermint Core](https://blockgeeks.com/guides/ultimate-guide-tendermint/)
+
 
 ## Language bundles
 
