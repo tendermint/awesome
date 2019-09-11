@@ -84,7 +84,15 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 Projects that are built using Tendermint
 
 - Cosmos Hub [Github](https://github.com/cosmos/gaia)
-- Cosmos SDK [Github](https://github.com/cosmos/cosmos-sdk)
+- Cosmos SDK [Website](https://cosmos.network/)
+- HyperLedger Burrow [Website](https://www.hyperledger.org/projects/hyperledger-burrow)
+- BigChainDB [Github](https://github.com/bigchaindb/bigchaindb)
+- IOV - Weave [Github](https://github.com/iov-one/weave)
+- Loom [Website](https://loomx.io/)
+- Data Eco [Website](https://data.eco/)
+- Clearing.cc [Website](https://www.clearing.cc/)
+- Oracle [Website](https://www.oracle.com/index.html)
+- FX Clearing House [Website](https://fxclr.com/#)
 
 ## Talk to us
 
