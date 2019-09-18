@@ -83,13 +83,49 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 
 ## Ecosystem
 
-Projects that are built using Tendermint
+Projects that are using Tendermint Core or Tendermint BFT
 
+- Akash [Website](https://akash.network/)
+- BigChainDB [Github](https://github.com/bigchaindb/bigchaindb)
+- Boid [Website](https://www.boid.com/)
+- Bytom [Website](https://bytom.io/)
+- Chain Point [Website](https://chainpoint.org/)
+- Clearing.cc [Website](https://www.clearing.cc/)
+- CodeChain [Website](https://codechain.io/)
 - Cosmos Hub [Github](https://github.com/cosmos/gaia)
-- Cosmos SDK [Github](https://github.com/cosmos/cosmos-sdk)
+- Cosmos SDK [Website](https://cosmos.network/)
+- Crypto.com [Website](https://crypto.com/)
+- Cyber Miles [Website](https://www.cybermiles.io/en-us/)
+- Data Eco [Website](https://data.eco/)
+- Digital ID for all [Website](https://www.digitalid.or.th/)
+- Ercoin [Website](https://ercoin.tech/)
+- Expload [Website](https://expload.com/en)
+- Fluence [Website](https://fluence.network/)
+- FX Clearing House [Website](https://fxclr.com/#)
+- HyperLedger Burrow [Website](https://www.hyperledger.org/projects/hyperledger-burrow)
+- Kadena, Kadenamint [Website](https://kadena.io/en/)
+- IOV - Weave [Github](https://github.com/iov-one/weave)
+- Loom [Website](https://loomx.io/)
+- LeapDAO [Website](https://leapdao.org/)
+- Lightstream [Website](https://www.lightstreams.network/)
+- LikeCoin [Website](https://like.co/)
+- Minter [Website](https://www.minter.network)
+- Nomic Holdings - Bitcoin sidechains [Website](https://nomic.io/)
+- Nym [Website](https://nymtech.net/)
+- Ockam [Website](https://www.ockam.io/)
+- OneLedger [Website](https://www.oneledger.io/)
+- Oracle [Website](https://www.oracle.com/index.html)
+- Paradigm Market [Website](https://paradigm.market/)
+- Peaq [Website](https://peaq.io/)
+- Sharering [Website](https://sharering.network/en)
+- Stratumn [Website](https://stratumn.com/)
+- Strong Force [Website](https://www.strongforce.io/)
+- Vega Protocol [Website](https://vegaprotocol.io/)
 
 ## Talk to us
 
 - [Chat](https://riot.im/app/#/room/#tendermint:matrix.org)
 - [Forum](https://forum.cosmos.network/c/tendermint)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/tendermint)
+
+**Discalaimer: This is a community led repo, it does not reflect the views of All In Bits (Tendermint Inc.)**
