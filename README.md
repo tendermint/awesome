@@ -120,8 +120,6 @@ Projects that are using Tendermint Core or Tendermint BFT
 - Strong Force [Website](https://www.strongforce.io/)
 - Vega Protocol [Website](https://vegaprotocol.io/)
 
-abcdefghijklmnopqrstuvxyz
-
 ## Talk to us
 
 - [Chat](https://riot.im/app/#/room/#tendermint:matrix.org)
