@@ -105,6 +105,7 @@ Projects that are using Tendermint Core or Tendermint BFT
 - HyperLedger Burrow [Website](https://www.hyperledger.org/projects/hyperledger-burrow)
 - Kadena, Kadenamint [Website](https://kadena.io/en/)
 - IOV - Weave [Github](https://github.com/iov-one/weave)
+- Lino Network [Website](https://lino.network/)
 - Loom [Website](https://loomx.io/)
 - LeapDAO [Website](https://leapdao.org/)
 - Lightstream [Website](https://www.lightstreams.network/)
