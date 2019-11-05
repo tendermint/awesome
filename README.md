@@ -104,6 +104,7 @@ Projects that are using Tendermint Core or Tendermint BFT
 - FX Clearing House [Website](https://fxclr.com/#)
 - HyperLedger Burrow [Website](https://www.hyperledger.org/projects/hyperledger-burrow)
 - Kadena, Kadenamint [Website](https://kadena.io/en/)
+- IDENA - [Website](http://idena.io/)
 - IOV - Weave [Github](https://github.com/iov-one/weave)
 - Lino Network [Website](https://lino.network/)
 - Loom [Website](https://loomx.io/)
