@@ -77,6 +77,10 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 - [ABCI server](https://github.com/tendermint/rust-abci) || [Alternative #1](https://github.com/devashishdxt/abci-rs)
 - [Amino](https://github.com/tendermint/amino_rs)
 
+### Haskell bundle
+
+- [ABCI server](https://github.com/f-o-a-m/hs-abci)
+
 ## Non-English resources
 
 - [Tendermint 轻松达成共识](https://www.youtube.com/watch?v=c6eoPPunVVA)
