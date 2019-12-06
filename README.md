@@ -8,7 +8,6 @@
 - [Docs](https://tendermint.com/docs/)
 - [Quick start](https://tendermint.com/docs/introduction/quick-start.html)
 - [RPC reference](https://tendermint.com/rpc/)
-- [Ecosystem](https://tendermint.com/ecosystem) Frameworks built on top of Tendermint
 
 ## Papers (and one thesis)
 
