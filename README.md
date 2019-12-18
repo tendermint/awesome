@@ -109,6 +109,7 @@ Projects that are using Tendermint Core or Tendermint BFT
 - Kadena, Kadenamint [Website](https://kadena.io/en/)
 - IDENA - [Website](http://idena.io/)
 - IOV - Weave [Github](https://github.com/iov-one/weave)
+- ixo [Website](http://ixo.world/)
 - Lino Network [Website](https://lino.network/)
 - Loom [Website](https://loomx.io/)
 - LeapDAO [Website](https://leapdao.org/)
