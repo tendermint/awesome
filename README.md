@@ -86,7 +86,7 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 
 ## Ecosystem
 
-Projects that are using Tendermint Core or Tendermint BFT
+[Projects](http://cosmonauts.world) that are using Tendermint Core or Tendermint BFT
 
 - Akash [Website](https://akash.network/)
 - BigChainDB [Github](https://github.com/bigchaindb/bigchaindb)
