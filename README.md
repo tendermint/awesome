@@ -19,7 +19,9 @@
 
 ## Tutorials
 
-- [Writing a built-in Tendermint Core app in Go](https://blog.cosmos.network/writing-a-built-in-tendermint-core-app-in-go-a52f3a35ec09)
+- [Creating a built-in application in Go](https://docs.tendermint.com/master/guides/go-built-in.html)
+- [Creating an application in Java](https://docs.tendermint.com/master/guides/java.html)
+- [Creating an application in Kotlin](https://docs.tendermint.com/master/guides/kotlin.html)
 - [Tendermint CAS demo](https://github.com/6thc/tendermint-cas-demo)
 - [How to write Tendermint applications using Python](https://medium.com/coinmonks/how-to-write-tendermint-applications-using-python-d8dde304e339)
 
