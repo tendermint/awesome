@@ -75,7 +75,7 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 
 ### Rust bundle
 
-- [ABCI server](https://github.com/tendermint/rust-abci) || [Alternative #1](https://github.com/devashishdxt/abci-rs)
+- [ABCI server](https://github.com/tendermint/rust-abci) || [Alternative #1 (Futures-based)](https://github.com/devashishdxt/abci-rs) || [Alternative #2 (Concurrent)](https://github.com/nomic-io/abci2)
 - [Amino](https://github.com/tendermint/amino_rs)
 
 ### Haskell bundle
@@ -118,7 +118,7 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 - Lightstream [Website](https://www.lightstreams.network/)
 - LikeCoin [Website](https://like.co/)
 - Minter [Website](https://www.minter.network)
-- Nomic Holdings - Bitcoin sidechains [Website](https://nomic.io/)
+- Nomic - Bitcoin sidechains [Website](https://nomic.io/)
 - Nym [Website](https://nymtech.net/)
 - Ockam [Website](https://www.ockam.io/)
 - OneLedger [Website](https://www.oneledger.io/)
