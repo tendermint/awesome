@@ -15,7 +15,7 @@
 - [The latest gossip on BFT consensus](https://arxiv.org/abs/1807.04938)
 - [Tendermint: Byzantine Fault Tolerance in the Age of Blockchains](https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf) Ethan Buchman's thesis
 - [Dissecting Tendermint](https://arxiv.org/abs/1809.09858)
-- [Correctness and Fairness of Tendermint-core Blockchains](https://arxiv.org/abs/1805.08429) Analysis of Tendermint proposer selection algorithm (p.s. algorithm was fixed and formally verified for the simpliest case by Christopher Goes https://github.com/cwgoes/tm-proposer-idris)
+- [Correctness and Fairness of Tendermint-core Blockchains](https://arxiv.org/abs/1805.08429) Analysis of Tendermint proposer selection algorithm (p.s. algorithm is fixed and formally verified for the case of two parties by Christopher Goes https://github.com/cwgoes/tm-proposer-idris)
 
 ## Tutorials
 
