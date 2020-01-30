@@ -44,6 +44,7 @@
 - [Consensus Compare: Tendermint BFT vs. EOS dPoS](https://blog.cosmos.network/consensus-compare-tendermint-bft-vs-eos-dpos-46c5bca7204b)
 - [List of projects in Cosmos & Tendermint Ecosystem](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
 - [The Most Comprehensive Guide to Tendermint Core](https://blockgeeks.com/guides/ultimate-guide-tendermint/)
+- [Tenderand: Randomized leader election in Tendermint](https://medium.com/codechain/tenderand-randomized-leader-election-in-tendermint-a3663d863479)
 
 
 ## Language bundles
@@ -85,6 +86,8 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 ## Non-English resources
 
 - [Tendermint 轻松达成共识](https://www.youtube.com/watch?v=c6eoPPunVVA)
+- [CodeChain TechTalk: Tendermint-part1](https://www.youtube.com/watch?v=E9UegvmjP0o) Tendermint consensus explained in Korean - part1
+- [CodeChain TechTalk: Tendermint-part2](https://www.youtube.com/watch?v=HhTK2DqSgd0) Tendermint consensus explained in Korean - part2
 
 ## Ecosystem
 
