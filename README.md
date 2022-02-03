@@ -19,7 +19,7 @@
 
 ## Tutorials
 
-- [Creating a built-in application in Go](https://docs.tendermint.com/master/guides/go-built-in.html)
+- [Creating a built-in application in Go](https://docs.tendermint.com/master/tutorials/go-built-in.html)
 - [Creating an application in Java](https://docs.tendermint.com/master/guides/java.html)
 - [Creating an application in Kotlin](https://docs.tendermint.com/master/guides/kotlin.html)
 - [Tendermint CAS demo](https://github.com/6thc/tendermint-cas-demo)
