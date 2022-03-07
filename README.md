@@ -16,6 +16,7 @@
 - [Tendermint: Byzantine Fault Tolerance in the Age of Blockchains](https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf) Ethan Buchman's thesis
 - [Dissecting Tendermint](https://arxiv.org/abs/1809.09858)
 - [Correctness and Fairness of Tendermint-core Blockchains](https://arxiv.org/abs/1805.08429) Analysis of Tendermint proposer selection algorithm (p.s. algorithm is fixed and formally verified for the case of two parties by Christopher Goes https://github.com/cwgoes/tm-proposer-idris)
+- [The design, architecture and performance of the Tendermint Blockchain Network](https://doi.org/10.1109/SRDS53918.2021.00012) Overview of Tendermint's main design goals and architecture, and detailed performance evaluation (published on [SRDS 2021](https://srds21.cse.msu.edu/): [presentation](https://youtu.be/Wkket1UldYc), [pdf](https://www.inf.usi.ch/faculty/pedone/Paper/2021/srds2021a.pdf))
 
 ## Tutorials
 
