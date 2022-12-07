@@ -135,6 +135,7 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 - Stratumn [Website](https://stratumn.com/)
 - Strong Force [Website](https://www.strongforce.io/)
 - Vega Protocol [Website](https://vegaprotocol.io/)
+- Provenance [Website](https://provenance.io/)
 
 ## Talk to us
 
