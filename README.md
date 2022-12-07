@@ -131,11 +131,11 @@ Bonus: check out [Lotion](https://github.com/nomic-io/lotion)
 - Oracle [Website](https://www.oracle.com/index.html)
 - Paradigm Market [Website](https://paradigm.market/)
 - Peaq [Website](https://peaq.io/)
+- Provenance [Website](https://provenance.io/)
 - Sharering [Website](https://sharering.network/en)
 - Stratumn [Website](https://stratumn.com/)
 - Strong Force [Website](https://www.strongforce.io/)
 - Vega Protocol [Website](https://vegaprotocol.io/)
-- Provenance [Website](https://provenance.io/)
 
 ## Talk to us
 
